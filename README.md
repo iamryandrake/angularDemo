@@ -16,4 +16,6 @@ ng-init - allows us to evaluate an expression in the current scope
 ng-class - accepts a key (name of the class to set) and a value, which is the expression to evaluate.
 ```ng-class="{ active:tab === 1}"```
 
+ng-model - binds the form element value to the property
+
 Expressions define a 2-way Data Binding, meaning Expressions are re-evaluated when a property changes.
