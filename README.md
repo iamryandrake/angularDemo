@@ -18,4 +18,6 @@ ng-class - accepts a key (name of the class to set) and a value, which is the ex
 
 ng-model - binds the form element value to the property
 
+ng-submit - allows us to call a function when the form is submitted
+
 Expressions define a 2-way Data Binding, meaning Expressions are re-evaluated when a property changes.
